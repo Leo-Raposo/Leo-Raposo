@@ -5,12 +5,12 @@
 </div>
 
 <!-- GIF -->
-<p align="left">
-  <img align="center" src="https://i.imgur.com/gBxP6oJ.gif" alt="Imagem">
+<p align="center">
+  <img src="https://i.imgur.com/gBxP6oJ.gif" alt="Imagem">
 </p>
 
 <!-- Presentation -->
-<p>
+<p align="center">
   Hi 👋, I'm Leo! A Software Engineer from Brazil.
 
   - 🌱 I currently have a degree in IT Management.
@@ -28,15 +28,22 @@
 </details>
 
 <!-- Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leoapoena/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-raposo-5b0a70144/)  
-[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/leonardoapoena)
-
+<p align="center">
+  <a href="https://www.instagram.com/leoapoena/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.linkedin.com/in/leonardo-raposo-5b0a70144/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.behance.net/leonardoapoena">
+    <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance">
+  </a>
+</p>
 
 <!-- GithubStats -->
-![Leo-Raposo GitHub stats](https://github-readme-stats.vercel.app/api?username=Leo-Raposo&show_icons=true&theme=gotham)
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Leo-Raposo&show_icons=true&theme=gotham" alt="Leo-Raposo GitHub stats">
+</p>
 
 ## 🔥 Skills
 
@@ -86,5 +93,3 @@
     <img align="center" alt="Scrum" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scrum/scrum-original.svg">
     <img align="center" alt="Kanban" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Kanban-icon.png">
   </div>
-
-
