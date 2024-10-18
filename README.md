@@ -1,16 +1,16 @@
 <!--título-->
 <div id="user-content-toc">
-  <ul align="center">
+  <ul align="left">
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
 
 <!-- GIF -->
-<p align="center">
+<p align="left">
   <img src="https://i.imgur.com/gBxP6oJ.gif" alt="Imagem">
 </p>
 
 <!-- Presentation -->
-<p align="center">
+<p align="left">
   Hi 👋, I'm Leo! A Software Engineer from Brazil.
 
   - 🌱 I currently have a degree in IT Management.
@@ -28,7 +28,7 @@
 </details>
 
 <!-- Links -->
-<p align="center">
+<p align="left">
   <a href="https://www.instagram.com/leoapoena/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
