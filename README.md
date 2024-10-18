@@ -22,10 +22,15 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 26 years old, currently living in Brazil. I have fluency in English and have experience with SQL, Python, Data Analysis, Data visualization, and Machine Learning. I'm also a content creator on YouTube since 2018, which helped me develop important skills such as creativity, communication, marketing, analytical capability, community and social media management.
+  - 💬 I am 36 years old, currently living in Brazil. I have extensive experience as a Software Engineer, specializing in fullstack development, IT management, and UI/UX design. I have led and contributed to several large-scale projects, including SaaS systems for cattle farms, event management applications, and CRM systems for governmental organizations.
 
-  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
+  - 🛠️ I have worked with technologies such as **Java**, **Angular**, **Flutter**, **TypeScript**, **React**, **NodeJS**, **Python**, and various databases like **MySQL**, **PostgreSQL**, **MongoDB**, **Firebase**, and **Supabase**. My cloud experience includes **AWS**, **Kubernetes**, and **Spring Cloud**.
+
+  - 🚀 In addition to my technical skills, I have experience working with clients such as **Ministério da Saúde**, **Sebrae**, **PNUD**, **OPAS**, and **FUNASA**. I have developed both mobile apps and websites for these clients, as well as communication bots for WhatsApp and email.
+
+  - ⚡ I am passionate about solving complex problems and transforming them into opportunities for growth. In my free time, I enjoy exploring new technologies, reading, and sharing my knowledge through YouTube, where I create content about audiovisual topics and video editing.
 </details>
+
 
 <!-- Links -->
 <p align="left">
