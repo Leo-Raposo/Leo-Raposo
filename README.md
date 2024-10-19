@@ -6,7 +6,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/2438013375536940927/D370DBF7BFC83ED36F783F08A598FFF3E71A1D61/" alt="Imagem">
+  <img src="https://github-readme-stats.vercel.app/api?username=Leo-Raposo&show_icons=true&theme=gotham" alt="Leo-Raposo GitHub stats">
 </p>
 
 <!-- Presentation -->
