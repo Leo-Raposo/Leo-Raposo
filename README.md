@@ -71,7 +71,7 @@
     <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
     <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
     <img align="center" alt="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
-    <img align="center" alt="Supabase" height="30" width="40" src="https://raw.githubusercontent.com/supabase/supabase/master/web/static/supabase-logo-icon.svg">
+    <img align="center" alt="Supabase" height="30" width="40" src="https://supabase.com/icons/supabase-icon.svg">
   </div>
   
 <!-- Skills: Tools & Frameworks -->
@@ -88,13 +88,13 @@
 <!-- Skills: Cloud & DevOps -->
   <div style="flex-basis: 48%;">
     <h3>Cloud & DevOps</h3>
-    <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
+    <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
     <img align="center" alt="Kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
   </div>
 
 <!-- Skills: Methodologies -->
   <div style="flex-basis: 48%;">
     <h3>Agile Methodologies</h3>
-    <img align="center" alt="Scrum" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scrum/scrum-original.svg">
-    <img align="center" alt="Kanban" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Kanban-icon.png">
+    <img align="center" alt="Scrum" height="30" width="40" src="https://www.vectorlogo.zone/logos/scrumorg/scrumorg-icon.svg">
+    <img align="center" alt="Kanban" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kanban_Kanbanize_logo.svg/1024px-Kanban_Kanbanize_logo.svg.png">
   </div>
