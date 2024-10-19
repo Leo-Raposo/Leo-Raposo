@@ -6,7 +6,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leo-Raposo&show_icons=true&theme=gotham" alt="Leo-Raposo GitHub stats">
+  <img src="https://i.imgur.com/gBxP6oJ.gif](https://s11.gifyu.com/images/SOsL6.gif" alt="Imagem">
 </p>
 
 <!-- Presentation -->
