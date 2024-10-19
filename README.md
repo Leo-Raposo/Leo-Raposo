@@ -82,7 +82,7 @@
     <img align="center" alt="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
     <img align="center" alt="Supabase" height="30" width="40" src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png">
     <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <img align="center" alt="GitHub" height="30" width="40" src="https://www.svgrepo.com/show/438589/github.svg">
+    <img align="center" alt="GitHub" height="30" width="40" src="https://svgshare.com/i/1Bfx.svg">
     <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
     <img align="center" alt="Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
 
