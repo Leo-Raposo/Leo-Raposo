@@ -39,10 +39,6 @@
   </a>
 </p>
 
-<!-- GithubStats -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leo-Raposo&show_icons=true&theme=gotham" alt="Leo-Raposo GitHub stats">
-</p>
 
 ## 🔥 Skills
 
