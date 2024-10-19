@@ -6,7 +6,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <img src="https://i.imgur.com/gBxP6oJ.gif](https://s11.gifyu.com/images/SOsL6.gif" alt="Imagem">
+  <img src="https://s11.gifyu.com/images/SOsL6.gif" alt="Imagem">
 </p>
 
 <!-- Presentation -->
