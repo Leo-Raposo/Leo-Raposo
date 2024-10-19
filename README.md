@@ -92,9 +92,3 @@
     <img align="center" alt="Kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
   </div>
 
-<!-- Skills: Methodologies -->
-  <div style="flex-basis: 48%;">
-    <h3>Agile Methodologies</h3>
-    <img align="center" alt="Scrum" height="30" width="40" src="https://www.vectorlogo.zone/logos/scrumorg/scrumorg-icon.svg">
-    <img align="center" alt="Kanban" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/6/65/Kanban-logo.svg">
-  </div>
