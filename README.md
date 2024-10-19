@@ -1,9 +1,3 @@
-<!--título-->
-<div id="user-content-toc">
-  <ul align="left">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
-</div>
-
 <!-- GIF -->
 <p align="left">
   <img src="https://s11.gifyu.com/images/SOsL6.gif" alt="Imagem">
