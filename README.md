@@ -71,7 +71,7 @@
     <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
     <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
     <img align="center" alt="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
-    <img align="center" alt="Supabase" height="30" width="40" src="https://supabase.com/icons/supabase-icon.svg">
+    <img align="center" alt="Supabase" height="30" width="40" src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png">
   </div>
   
 <!-- Skills: Tools & Frameworks -->
@@ -96,5 +96,5 @@
   <div style="flex-basis: 48%;">
     <h3>Agile Methodologies</h3>
     <img align="center" alt="Scrum" height="30" width="40" src="https://www.vectorlogo.zone/logos/scrumorg/scrumorg-icon.svg">
-    <img align="center" alt="Kanban" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kanban_Kanbanize_logo.svg/1024px-Kanban_Kanbanize_logo.svg.png">
+    <img align="center" alt="Kanban" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/6/65/Kanban-logo.svg">
   </div>
