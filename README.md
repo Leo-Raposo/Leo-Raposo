@@ -5,7 +5,7 @@
 
 <!-- Presentation -->
 <p align="left">
-  Hi 👋, I'm Leo! A Software Engineer from Brazil.
+  Hi 👋, I'm Leo! A Software Engineer.
 
   - 🌱 I currently have a degree in IT Management.
 
